@@ -2,6 +2,7 @@
 # BYO
 ### by Anto+Creo
 
+https://vimeo.com/195553906
 
 This is a software to control and manage real time data. In this case is bio-data using a Myo armband https://www.myo.com/
 The software allows 3 types of visualisations and 3 sonic interactions.
