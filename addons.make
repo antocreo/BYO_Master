@@ -1,0 +1,3 @@
+ofxMyo
+ofxOsc
+ofxXmlSettings
