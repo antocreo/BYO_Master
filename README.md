@@ -1,6 +1,6 @@
 
 # BYO
-### by Antonio Daniele
+### by Anto+Creo
 
 
 This is a software to control and manage real time data. In this case is bio-data using a Myo armband https://www.myo.com/
