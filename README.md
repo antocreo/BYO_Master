@@ -103,4 +103,5 @@ Also, if you reuse this code, it would be great to know what you have done!
 http://www.letitbrain.it/LIB_interactive
 
 
-
+licensed under CC BY-NC-SA 4.0
+https://creativecommons.org/licenses/by-nc-sa/4.0/
